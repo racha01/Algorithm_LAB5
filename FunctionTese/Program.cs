@@ -10,9 +10,11 @@ namespace FunctionTese
     {
         static void Main(string[] args)
         {
-            
-            Showdata(101, "Mess Thailand", "5 Thai Rd.");
-            Showdata(101, "Mess Thailand", "5 Thai Rd.");
+            double ID = 101;
+            string Name = "Mess Thailand";
+            string Address = "5 Thai Rd.";
+            Showdata(ID, Name, Address);
+            ShowdataEdit(ID, Name, Address);
         }
         static void Showdata(double id, string name,  string address)
         {
