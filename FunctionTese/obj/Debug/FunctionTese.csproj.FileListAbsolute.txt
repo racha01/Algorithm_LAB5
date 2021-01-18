@@ -1,0 +1,7 @@
+C:\Users\Rachanon\source\repos\FunctionTese\FunctionTese\bin\Debug\FunctionTese.exe.config
+C:\Users\Rachanon\source\repos\FunctionTese\FunctionTese\bin\Debug\FunctionTese.exe
+C:\Users\Rachanon\source\repos\FunctionTese\FunctionTese\bin\Debug\FunctionTese.pdb
+C:\Users\Rachanon\source\repos\FunctionTese\FunctionTese\obj\Debug\FunctionTese.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\FunctionTese\FunctionTese\obj\Debug\FunctionTese.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\FunctionTese\FunctionTese\obj\Debug\FunctionTese.exe
+C:\Users\Rachanon\source\repos\FunctionTese\FunctionTese\obj\Debug\FunctionTese.pdb

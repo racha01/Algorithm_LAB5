@@ -1,0 +1,7 @@
+C:\Users\Rachanon\source\repos\FunctionTese\ArrayStackTest\obj\Debug\ArrayStackTest.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\FunctionTese\ArrayStackTest\obj\Debug\ArrayStackTest.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\FunctionTese\ArrayStackTest\bin\Debug\ArrayStackTest.exe.config
+C:\Users\Rachanon\source\repos\FunctionTese\ArrayStackTest\bin\Debug\ArrayStackTest.exe
+C:\Users\Rachanon\source\repos\FunctionTese\ArrayStackTest\bin\Debug\ArrayStackTest.pdb
+C:\Users\Rachanon\source\repos\FunctionTese\ArrayStackTest\obj\Debug\ArrayStackTest.exe
+C:\Users\Rachanon\source\repos\FunctionTese\ArrayStackTest\obj\Debug\ArrayStackTest.pdb

@@ -1,0 +1,7 @@
+C:\Users\Rachanon\source\repos\FunctionTese\ArrayQueueTest\bin\Debug\ArrayQueueTest.exe.config
+C:\Users\Rachanon\source\repos\FunctionTese\ArrayQueueTest\bin\Debug\ArrayQueueTest.exe
+C:\Users\Rachanon\source\repos\FunctionTese\ArrayQueueTest\bin\Debug\ArrayQueueTest.pdb
+C:\Users\Rachanon\source\repos\FunctionTese\ArrayQueueTest\obj\Debug\ArrayQueueTest.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\FunctionTese\ArrayQueueTest\obj\Debug\ArrayQueueTest.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\FunctionTese\ArrayQueueTest\obj\Debug\ArrayQueueTest.exe
+C:\Users\Rachanon\source\repos\FunctionTese\ArrayQueueTest\obj\Debug\ArrayQueueTest.pdb

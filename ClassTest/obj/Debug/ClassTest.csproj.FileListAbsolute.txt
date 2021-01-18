@@ -1,0 +1,7 @@
+C:\Users\Rachanon\source\repos\FunctionTese\ClassTest\bin\Debug\ClassTest.exe.config
+C:\Users\Rachanon\source\repos\FunctionTese\ClassTest\bin\Debug\ClassTest.exe
+C:\Users\Rachanon\source\repos\FunctionTese\ClassTest\bin\Debug\ClassTest.pdb
+C:\Users\Rachanon\source\repos\FunctionTese\ClassTest\obj\Debug\ClassTest.csprojAssemblyReference.cache
+C:\Users\Rachanon\source\repos\FunctionTese\ClassTest\obj\Debug\ClassTest.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\FunctionTese\ClassTest\obj\Debug\ClassTest.exe
+C:\Users\Rachanon\source\repos\FunctionTese\ClassTest\obj\Debug\ClassTest.pdb
