@@ -10,37 +10,24 @@ namespace ArrayStackTest
     {
         public static void Main(string[] args)
         {
-            int n_person;
-            Console.Write("Enter umber of person to present:");
-            n_person = int.Parse(Console.ReadLine());
-            ArrayStack stack = new ArrayStack(n_person);
-            //ArrayStack stack = new ArrayStack(10);
+
+            ArrayStack stack = new ArrayStack(5);
 
             int i = 0;
-            while (i < n_person)
+            while (i < 5)
             {
                 i++;
                 string objToPush = "obj" + i;
-                Console.Write("Enter person to present is");
+                Console.Write("Enter person to present is :");
                 objToPush = Console.ReadLine();
 
                 stack.push(objToPush);
             }
+        }
 
-            /*for (int i = 0; i < 10; i++)
-            {
-                string objToPush = "obj" + i;
+        public static void Cout()
+        {
 
-                Console.WriteLine("Pushing: {0}", objToPush);
-
-                stack.push(objToPush);
-            }*/
-
-            while (!stack.isEmpty())
-            {
-                string objPoped = (string)stack.pop();
-                Console.WriteLine("The next person to present is: {0}", objPoped);    
-            }
         }
     }
 }

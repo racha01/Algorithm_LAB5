@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayStackTest", "ArrayStac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayQueueTest", "ArrayQueueTest\ArrayQueueTest.csproj", "{00F9DC42-16D1-4DE2-9D30-C435E94522F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{EAFFF336-FAB3-4604-8AA3-9F9F286687B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{00F9DC42-16D1-4DE2-9D30-C435E94522F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00F9DC42-16D1-4DE2-9D30-C435E94522F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00F9DC42-16D1-4DE2-9D30-C435E94522F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFFF336-FAB3-4604-8AA3-9F9F286687B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFFF336-FAB3-4604-8AA3-9F9F286687B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFFF336-FAB3-4604-8AA3-9F9F286687B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFFF336-FAB3-4604-8AA3-9F9F286687B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
